@@ -9,5 +9,5 @@
       "hash": "sha256:a58e44f1d3ecf5bac1a920fe9d83656f0c45ef3034ac4b4d185ee5c057ac7a4a"
     }
   },
-  "bin": "emacs.exe"
+  "bin": "bin/emacs.exe"
 }
