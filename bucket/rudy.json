@@ -9,5 +9,5 @@
       "hash": "sha256:5d11ad0ebdce5cc6927fa49d29eb0052e71a5707fbb9064a0b6e26228c862a91"
     }
   },
-  "bin": "rudy.exe"
+  "bin": { "rudy.exe", "руд.exe" }
 }
