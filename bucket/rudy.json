@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/CoolDove/rudy/releases/download/v0.0.2/rudy-win-x64.zip",
-      "hash": "sha256:2faca73ec411e66c6942cbdcb6c9047ad5269e02244f23f2e06efe603d0bba13"
+      "hash": "sha256:7dc0589a1b76f78b7ab780bd9f81ee2bfbac7801ab062923a41fb20e089297a6"
     }
   },
   "bin": [
