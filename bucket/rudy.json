@@ -1,12 +1,12 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A TUI russian dictionary",
   "homepage": "https://github.com/CoolDove/rudy",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/CoolDove/rudy/releases/download/v0.0.1/rudy-win-x64.zip",
-      "hash": "sha256:5d11ad0ebdce5cc6927fa49d29eb0052e71a5707fbb9064a0b6e26228c862a91"
+      "url": "https://github.com/CoolDove/rudy/releases/download/v0.0.2/rudy-win-x64.zip",
+      "hash": "sha256:2faca73ec411e66c6942cbdcb6c9047ad5269e02244f23f2e06efe603d0bba13"
     }
   },
   "bin": [
