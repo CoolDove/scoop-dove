@@ -9,5 +9,5 @@
       "hash": "sha256:2f176983cb1e75adbe0a8d9fd08b755be4f549ec0baf05515953dfd731a24514"
     }
   },
-  "bin": "jl.exe"
+  "bin": [["jl-win-x64.exe", "jl"]]
 }
